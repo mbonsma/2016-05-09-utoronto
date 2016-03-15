@@ -1,8 +1,8 @@
 #--------------------------------------------------------------------------------
 # Values for this workshop - EDIT THIS SECTION.
 #--------------------------------------------------------------------------------
-workshop_repo   : "http://github.com/UofTCoders/2016-05-09"
-workshop_site   : "http://uoftcoders.github.io/2016-05-09"
+workshop_repo   : "http://github.com/UofTCoders/2016-05-09-utoronto"
+workshop_site   : "http://uoftcoders.github.io/2016-05-09-utoronto"
 #--------------------------------------------------------------------------------
 # Standard Software Carpentry settings - should not need to be modified.
 #--------------------------------------------------------------------------------
